@@ -1,0 +1,14 @@
+npm init
+npm install express
+node index.js => "hello world"
+
+let a = 10
+a = 100
+
+console.log(a)
+
+let a = 5
+let b = 5
+let c = 5
+
+
